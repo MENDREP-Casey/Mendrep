@@ -1,0 +1,21 @@
+/*
+ Theme Name:     Divi Child
+ Theme URI:      https://www.elegantthemes.com/gallery/divi/
+ Description:    Divi Child Theme
+ Author:         Elegant Themes
+ Author URI:     https://www.elegantthemes.com
+ Template:       Divi
+ Version:        1.0.0
+*/
+
+/*-----------------------NAV CSS------------------------- */
+/*------------------------------------------------------- */
+
+
+/* This CSS is just to hide the navigation menu as we don't want to display this on the holding page
+we will remove this after sprint 1 when we start building the navigation
+ */
+#et-top-navigation { visibility: hidden; }
+
+/*-------------------END OF NAV CSS---------------------- */
+/*------------------------------------------------------- */
